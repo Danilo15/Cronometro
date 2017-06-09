@@ -1,0 +1,9 @@
+c:\users\danil\onedrive\documentos\visual studio 2015\Projects\Cronometro\Cronometro\bin\Debug\Cronometro.exe.config
+c:\users\danil\onedrive\documentos\visual studio 2015\Projects\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+c:\users\danil\onedrive\documentos\visual studio 2015\Projects\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+c:\users\danil\onedrive\documentos\visual studio 2015\Projects\Cronometro\Cronometro\obj\Debug\Cronometro.csprojResolveAssemblyReference.cache
+c:\users\danil\onedrive\documentos\visual studio 2015\Projects\Cronometro\Cronometro\obj\Debug\Cronometro.Form1.resources
+c:\users\danil\onedrive\documentos\visual studio 2015\Projects\Cronometro\Cronometro\obj\Debug\Cronometro.Properties.Resources.resources
+c:\users\danil\onedrive\documentos\visual studio 2015\Projects\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.GenerateResource.Cache
+c:\users\danil\onedrive\documentos\visual studio 2015\Projects\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+c:\users\danil\onedrive\documentos\visual studio 2015\Projects\Cronometro\Cronometro\obj\Debug\Cronometro.pdb
