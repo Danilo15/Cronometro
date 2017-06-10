@@ -1,0 +1,9 @@
+E:\Executaveis liberados\projects\Cronometro\Checklist\bin\Debug\Checklist.exe.config
+E:\Executaveis liberados\projects\Cronometro\Checklist\bin\Debug\Checklist.exe
+E:\Executaveis liberados\projects\Cronometro\Checklist\bin\Debug\Checklist.pdb
+E:\Executaveis liberados\projects\Cronometro\Checklist\obj\Debug\Checklist.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\projects\Cronometro\Checklist\obj\Debug\Checklist.Form1.resources
+E:\Executaveis liberados\projects\Cronometro\Checklist\obj\Debug\Checklist.Properties.Resources.resources
+E:\Executaveis liberados\projects\Cronometro\Checklist\obj\Debug\Checklist.csproj.GenerateResource.Cache
+E:\Executaveis liberados\projects\Cronometro\Checklist\obj\Debug\Checklist.exe
+E:\Executaveis liberados\projects\Cronometro\Checklist\obj\Debug\Checklist.pdb

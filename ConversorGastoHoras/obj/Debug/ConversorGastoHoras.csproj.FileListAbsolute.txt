@@ -1,0 +1,9 @@
+E:\Executaveis liberados\projects\Cronometro\ConversorGastoHoras\bin\Debug\ConversorGastoHoras.exe.config
+E:\Executaveis liberados\projects\Cronometro\ConversorGastoHoras\bin\Debug\ConversorGastoHoras.exe
+E:\Executaveis liberados\projects\Cronometro\ConversorGastoHoras\bin\Debug\ConversorGastoHoras.pdb
+E:\Executaveis liberados\projects\Cronometro\ConversorGastoHoras\obj\Debug\ConversorGastoHoras.Form1.resources
+E:\Executaveis liberados\projects\Cronometro\ConversorGastoHoras\obj\Debug\ConversorGastoHoras.Properties.Resources.resources
+E:\Executaveis liberados\projects\Cronometro\ConversorGastoHoras\obj\Debug\ConversorGastoHoras.csproj.GenerateResource.Cache
+E:\Executaveis liberados\projects\Cronometro\ConversorGastoHoras\obj\Debug\ConversorGastoHoras.exe
+E:\Executaveis liberados\projects\Cronometro\ConversorGastoHoras\obj\Debug\ConversorGastoHoras.pdb
+E:\Executaveis liberados\projects\Cronometro\ConversorGastoHoras\obj\Debug\ConversorGastoHoras.csprojResolveAssemblyReference.cache

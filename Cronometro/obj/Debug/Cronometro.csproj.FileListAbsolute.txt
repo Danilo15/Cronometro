@@ -7,3 +7,6 @@ c:\users\danil\onedrive\documentos\visual studio 2015\Projects\Cronometro\Cronom
 c:\users\danil\onedrive\documentos\visual studio 2015\Projects\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.GenerateResource.Cache
 c:\users\danil\onedrive\documentos\visual studio 2015\Projects\Cronometro\Cronometro\obj\Debug\Cronometro.exe
 c:\users\danil\onedrive\documentos\visual studio 2015\Projects\Cronometro\Cronometro\obj\Debug\Cronometro.pdb
+E:\Executaveis liberados\projects\Cronometro\Cronometro\bin\Debug\Cronometro.exe.config
+E:\Executaveis liberados\projects\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+E:\Executaveis liberados\projects\Cronometro\Cronometro\obj\Debug\Cronometro.pdb

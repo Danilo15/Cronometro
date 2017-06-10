@@ -1,0 +1,18 @@
+c:\users\weber\documents\visual studio 2015\Projects\ListaCusto\ListaCusto\bin\Debug\ListaCusto.exe.config
+c:\users\weber\documents\visual studio 2015\Projects\ListaCusto\ListaCusto\bin\Debug\ListaCusto.exe
+c:\users\weber\documents\visual studio 2015\Projects\ListaCusto\ListaCusto\bin\Debug\ListaCusto.pdb
+c:\users\weber\documents\visual studio 2015\Projects\ListaCusto\ListaCusto\obj\Debug\ListaCusto.csprojResolveAssemblyReference.cache
+c:\users\weber\documents\visual studio 2015\Projects\ListaCusto\ListaCusto\obj\Debug\ListaCusto.Form1.resources
+c:\users\weber\documents\visual studio 2015\Projects\ListaCusto\ListaCusto\obj\Debug\ListaCusto.Properties.Resources.resources
+c:\users\weber\documents\visual studio 2015\Projects\ListaCusto\ListaCusto\obj\Debug\ListaCusto.csproj.GenerateResource.Cache
+c:\users\weber\documents\visual studio 2015\Projects\ListaCusto\ListaCusto\obj\Debug\ListaCusto.exe
+c:\users\weber\documents\visual studio 2015\Projects\ListaCusto\ListaCusto\obj\Debug\ListaCusto.pdb
+E:\Executaveis liberados\projects\Cronometro\ListaCusto\bin\Debug\ListaCusto.exe.config
+E:\Executaveis liberados\projects\Cronometro\ListaCusto\obj\Debug\ListaCusto.exe
+E:\Executaveis liberados\projects\Cronometro\ListaCusto\obj\Debug\ListaCusto.pdb
+E:\Executaveis liberados\projects\Cronometro\ListaCusto\bin\Debug\ListaCusto.exe
+E:\Executaveis liberados\projects\Cronometro\ListaCusto\bin\Debug\ListaCusto.pdb
+E:\Executaveis liberados\projects\Cronometro\ListaCusto\obj\Debug\ListaCusto.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\projects\Cronometro\ListaCusto\obj\Debug\ListaCusto.Form1.resources
+E:\Executaveis liberados\projects\Cronometro\ListaCusto\obj\Debug\ListaCusto.Properties.Resources.resources
+E:\Executaveis liberados\projects\Cronometro\ListaCusto\obj\Debug\ListaCusto.csproj.GenerateResource.Cache
